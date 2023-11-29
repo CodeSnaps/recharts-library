@@ -2,7 +2,9 @@
 
 Learn how to create beautiful charts in React with Recharts, a charting library built specifically for React. Once you understand how to create one chart, you can pretty much create any chart you can imagine.
 
-![Recharts](https://user-images.githubusercontent.com/47107420/267978511-9f934544-0fc4-44e1-84a1-150a4d9539d2.png)
+## Link to YouTube Video 📺
+
+[![Create Beautiful Charts in React With Recharts in 7 Minutes](https://img.youtube.com/vi/Fu_YFp-9xoQ/0.jpg)](https://www.youtube.com/watch?v=4LrVhAxJUsA)
 
 ## Here’s What You’ll Learn 👨🏻‍💻
 
